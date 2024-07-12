@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "ay5",
+      "name": "Ayush Rohan",
+      "password": "kk@1234",
+      "email": "test@gmail.com",
+      "phone": "7765096302",
+      "country": "india",
+      "address": "rps more",
+      "gender": "male"
+    },
+    {
+      "id": "ayushrohan5",
+      "name": "Ayush Rohan",
+      "password": "kk@12345",
+      "email": "ayush@gmail.com",
+      "phone": "8409184599",
+      "country": "india",
+      "address": "rps more",
+      "gender": "male"
+    },
+    {
+      "id": "sdefghjy",
+      "name": "dcgrhj",
+      "password": "sdgfnh",
+      "email": "a@gmail.com",
+      "phone": "7897",
+      "country": "india",
+      "address": "House no. 35, judges colony road,rps more",
+      "gender": "female"
+    }
+  ]
+}
