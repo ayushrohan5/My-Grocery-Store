@@ -11,7 +11,7 @@ Welcome to **My Grocery Store**, a web application built with Next.js for the fr
 - API Endpoints
 - Technologies Used
 - Contributing
-- License
+
 
 ## Introduction
 
